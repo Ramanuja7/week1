@@ -1,0 +1,8 @@
+Problem Statement: Circular Economy Product Reuse Predictor
+The rise in global consumer product consumption has led to significant resource depletion, landfill waste, and environmental harm due to limited product reuse and recycling. Current product lifecycle management systems lack intelligent tools that can proactively identify which products are most likely to be reused, repaired, refurbished, or recycled, especially after initial ownership ends.
+
+This project aims to develop a machine learning model that predicts the future circular potential (likelihood of reuse, repair, refurbishment, or recycling) of individual consumer products based on their material composition, manufacturing brand, location, age, user behavior, historical resale data, and local infrastructure. The solution should leverage large-scale product metadata, manufacturer sustainability disclosures, and actual reuse/recycling data from resale platforms, recycling centers, and municipal datasets.
+
+The ultimate goal is to inform consumers, manufacturers, circular economy platforms, and policymakers about the highest-impact interventions and optimal pathways for extending product life, reducing resource extraction, and minimizing landfill waste, thereby accelerating the transition to a sustainable circular economy.​
+
+This approach is scalable for multiple product categories—electronics, appliances, textiles, vehicles—and extends to both local and global sustainability initiatives.
